@@ -1,0 +1,11 @@
+[
+  {
+    "id": "123e4567-e89b-12d3-a456-426614174000",
+    "user_id": "123e4567-e89b-12d3-a456-426614174000",
+    "product_name": "Test Product",
+    "product_description": "This is a sample product.",
+    "product_images": ["https://example.com/image1.jpg", "https://example.com/image2.jpg"],
+    "compressed_product_images": ["https://s3.example.com/compressed_image1.jpg", "https://s3.example.com/compressed_image2.jpg"],
+    "product_price": 99.99
+  }
+]
